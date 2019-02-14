@@ -1,5 +1,5 @@
 # Supply Chain
-More info is coming
+...More info is coming
 
 ## A note on testing
 
