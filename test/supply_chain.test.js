@@ -2,7 +2,7 @@
 This test file has been updated for Truffle version 5.0. If your tests are failing, make sure that you are
 using Truffle version 5.0. You can check this by running "trufffle version"  in the terminal. If version 5 is not
 installed, you can uninstall the existing version with `npm uninstall -g truffle` and install the latest version (5.0)
-with `npm install -g truffle`.
+with `npm install -g truffle`..
 */
 var BN = web3.utils.BN
 var SupplyChain = artifacts.require('SupplyChain')
