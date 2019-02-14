@@ -6,7 +6,7 @@ import "../contracts/SupplyChain.sol";
 
 contract TestSupplyChain {
 
-    // Test for failing conditions in this contracts
+    // Empty thus far...should add more for the following comments:
     // test that every modifier is working
 
     // buyItem
